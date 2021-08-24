@@ -1,3 +1,3 @@
 # go-graceful
 
-An example of http server with graceful shutdown in Go.
+Examples of http servers with graceful shutdown in Go.
